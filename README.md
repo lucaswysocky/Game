@@ -17,7 +17,7 @@ Practice programming in Python (especially code refactoring skills) and build so
 ### More info
 
 Player has to shoot as many aliens as possible and try to beat the highest recorded score. The game starts with a play button. Player controls the spaceship using the left and right arrow keys and shoots laser bullets using the space button.
-There can be up to 5 laser bullets flying in the field, so be wise about where and how often you shoot! 
+There can be up to 5 laser bullets flying in the field, which further increases difficulty.  
 Run *Project_1.py* to start the game.
 
 ![](gif_1.gif)  
@@ -38,8 +38,7 @@ There are 3 lives per game. If aliens hit the bottom of the screen or the spaces
 
 
 The file *settings.py* controls all the game's parameters, including how more difficult each level is, how agile the spaceship becomes etc.
-The highest score is kept, try to beat if you fell you can do it!
-
+The game keeps the record of the highest score achieved by anyone who plays it.
 
 ### Future improvements
 
