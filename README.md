@@ -32,7 +32,7 @@ However, with each new level, the aliens approach faster and faster!
 ![](gif_3.gif) 
 
 
-There are 3 lives per game. If aliens hit the bottom of the screen or the spaceship, the user looses a life.
+There are 3 lives per game. If aliens hit the bottom of the screen or the spaceship, the player looses a life.
 
 ![](gif_4.gif)
 
@@ -45,3 +45,4 @@ The game keeps the record of the highest score achieved by anyone who plays it.
 * aliens shooting their own laser bullets
 * obstacles the aliens can hide behind
 * more nuanced movements the aliens can make
+* personal user accounts
