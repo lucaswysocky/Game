@@ -10,9 +10,10 @@ A simple arcade game developed using pygame.
 Practice programming in Python (especially code refactoring skills) and build something fun while at it!
 
 
-### Libraries
+### Requires
 
-* pygame
+* python 3.7 <=
+* pygame 1.9.5 <=
 
 ### More info
 
