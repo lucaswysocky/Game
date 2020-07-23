@@ -47,3 +47,12 @@ The game keeps the record of the highest score achieved by anyone who plays it.
 * obstacles the aliens can hide behind
 * more nuanced movements the aliens can make
 * personal user accounts
+
+
+### Acknowledgements
+
+Image credits
+
+spaceship: https://www.pngfuel.com/free-png/ayyac
+aliens: https://www.pngkey.com/detail/u2w7a9w7e6y3o0w7_ufo-alien-spaceship-illustration/
+
