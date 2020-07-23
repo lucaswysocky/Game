@@ -32,7 +32,7 @@ However, with each new level, the aliens approach faster and faster!
 ![](gif_3.gif) 
 
 
-There are 3 lives per game. If aliens hit the bottom of the screen or the spaceship, the player looses a life.
+If aliens hit the bottom of the screen or the spaceship, the player looses a life. There are 3 lives per game.
 
 ![](gif_4.gif)
 
