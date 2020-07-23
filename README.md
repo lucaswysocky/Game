@@ -10,14 +10,17 @@ A simple arcade game developed using pygame. The user has to shoot as many alien
 Practice programming in Python (especially code refactoring skills) and build something fun while at it!
 
 
+### Libraries
+
+* pygame
+
 ### More info
 
 The game starts with a play button. User controls the spaceship using the left and right arrow keys and shoots laser bullets using the space button.
 There can be up to 5 laser bullets flying in the field, so be wise about where and how often you shoot! 
 Run *Project_1.py* to start the game.
 
-![](gif_1.gif) 
-
+![](gif_1.gif)  
 
 After shooting all the aliens, user advances to the next level. This increases spaceship's agility!
 
