@@ -2,7 +2,7 @@
 
 ### Project description
 
-A simple arcade game developed using pygame. The user has to shoot as many aliens as possible and try to beat the highest recorded score.
+A simple arcade game developed using pygame.
 
 
 ### Objective
@@ -16,7 +16,7 @@ Practice programming in Python (especially code refactoring skills) and build so
 
 ### More info
 
-The game starts with a play button. User controls the spaceship using the left and right arrow keys and shoots laser bullets using the space button.
+Player has to shoot as many aliens as possible and try to beat the highest recorded score. The game starts with a play button. User controls the spaceship using the left and right arrow keys and shoots laser bullets using the space button.
 There can be up to 5 laser bullets flying in the field, so be wise about where and how often you shoot! 
 Run *Project_1.py* to start the game.
 
