@@ -16,15 +16,18 @@ The game starts with a play button. User controls the spaceship using the left a
 There can be up to 5 laser bullets flying in the field, so be wise about where and how often you shoot! 
 Run *Project_1.py* to start the game.
 
-![](gif_1.gif)
+![](gif_1.gif) 
+
 
 After shooting all the aliens, user advances to the next level. This increases spaceship's agility!
 
-![](gif_2.gif)
+![](gif_2.gif) 
+ 
 
 However, with each new level, the aliens approach faster and faster!
 
-![](gif_3.gif)
+![](gif_3.gif) 
+
 
 There are 3 lives per game. If aliens hit the bottom of the screen or the spaceship, the user looses a life.
 
@@ -37,6 +40,6 @@ The highest score is kept, try to beat if you fell you can do it!
 
 ### Future improvements
 
-* aliens shooitng their own laser bullets
+* aliens shooting their own laser bullets
 * obstacles the aliens can hide behind
-* more nuanced aliens' movements
+* more nuanced movements the aliens can make
